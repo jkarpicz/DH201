@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Karpicz_DH201_W19</title>
+    <link href="https://jkarpicz.github.io/ DH201/feed.xml" rel="self" />
+    <link href="https://jkarpicz.github.io/ DH201" />
+    <updated>2019-02-13T12:57:19-08:00</updated>
+    <author>
+        <name>Julia Karpicz</name>
+    </author>
+    <id>https://jkarpicz.github.io/ DH201</id>
+
+    <entry>
+        <title>DH 201 - Final Project</title>
+        <author>
+            <name>Julia Karpicz</name>
+        </author>
+        <link href="https://jkarpicz.github.io/ DH201/dh-201-final-project.html"/>
+        <id>https://jkarpicz.github.io/ DH201/dh-201-final-project.html</id>
+
+        <updated>2019-02-12T23:00:13-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jkarpicz.github.io/ DH201/media/posts/1/" alt="" />
+                    Final project site to include: Narrative about public art in postsecondary space, what is the history and context around institution's investment in public art. The history of Washington's collection in particular. As well as an image gallery (either of examples of the artwork or historical&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jkarpicz.github.io/ DH201/media/posts/1/" alt="" />
+                Final project site to include: Narrative about public art in postsecondary space, what is the history and context around institution's investment in public art. The history of Washington's collection in particular. As well as an image gallery (either of examples of the artwork or historical / archival material (available digitally) about the public art program / specific installations), a line-graph showing the number of art pieces added by year. Some kind of data visualization looking at the most campuses, artists, and/or types of art that are most well-represented in the collection. And hopefull some sort of map using the latititude / longitude data in the dataset.
+            ]]>
+        </content>
+    </entry>
+</feed>

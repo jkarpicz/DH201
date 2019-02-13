@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Karpicz_DH201_W19",
+    "description": "",
+    "home_page_url": "https://jkarpicz.github.io/ DH201",
+    "feed_url": "https://jkarpicz.github.io/ DH201/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Julia Karpicz"
+    },
+    "items": [
+        {
+            "id": "https://jkarpicz.github.io/ DH201/dh-201-final-project.html",
+            "url": "https://jkarpicz.github.io/ DH201/dh-201-final-project.html",
+            "title": "DH 201 - Final Project",
+            "summary": "Final project site to include: Narrative about public art in postsecondary space, what is the history and context around institution's investment in public art. The history of Washington's collection in particular. As well as an image gallery (either of examples of the artwork or historical&hellip;",
+            "content_html": "Final project site to include: Narrative about public art in postsecondary space, what is the history and context around institution's investment in public art. The history of Washington's collection in particular. As well as an image gallery (either of examples of the artwork or historical / archival material (available digitally) about the public art program / specific installations), a line-graph showing the number of art pieces added by year. Some kind of data visualization looking at the most campuses, artists, and/or types of art that are most well-represented in the collection. And hopefull some sort of map using the latititude / longitude data in the dataset.",
+            "image": "https://jkarpicz.github.io/ DH201/media/posts/1/",
+            "author": {
+                "name": "Julia Karpicz"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-12T22:55:03-08:00",
+            "date_modified": "2019-02-12T23:00:13-08:00"
+        }
+    ]
+}
